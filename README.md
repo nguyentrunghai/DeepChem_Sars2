@@ -1,4 +1,4 @@
-# Some hightlights of my suggested approach
+# Some hightlights of the approach
 
 ### Feature extraction
 The current set of features (with 15 features) is rather small. I suggest that we use more features. Of course increasing the number of features while having a small training set (just about 50 data points) will increase the likelihood of overfitting. When this happens we can apply regularization methods like L1, L2 or dropout to solve the overfitting problem.
